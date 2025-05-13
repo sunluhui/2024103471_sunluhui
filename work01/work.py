@@ -1,3 +1,8 @@
+
+
+#第二次作业
+
+
 def generate_data(**kwargs):
     """
     根据传入的kwargs参数生成对应的数据类型。
